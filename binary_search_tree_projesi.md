@@ -6,5 +6,5 @@
 
     Root 7'dir:
     
-    ![treeee](https://user-images.githubusercontent.com/85116009/198862765-40c3d746-4c04-4056-8585-1ed9b6f826d4.png)
+![treeee](https://user-images.githubusercontent.com/85116009/198862765-40c3d746-4c04-4056-8585-1ed9b6f826d4.png)    
     
