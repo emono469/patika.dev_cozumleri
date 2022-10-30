@@ -26,3 +26,10 @@
     Best case: Aradığımız sayının dizinin en başında olması.) bilgileri ışığında:
     
     Dizimiz [2,6,16,18,22,27] olduğu için Average case kapsamına girer.
+    
+#### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:
+
+    [3,7,5,8,2,9,4,15,6]
+    [3,5,7,8,2,9,4,15,6]
+    [3,5,7,2,8,9,4,15,6]
+    [3,5,2,7,8,9,4,15,6]
