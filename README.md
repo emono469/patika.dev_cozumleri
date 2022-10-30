@@ -19,3 +19,8 @@
 #### 2) Big-O gösterimi:
 
     O(n^2)
+      
+#### 2) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?:
+
+    (Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında       olması.) bilgileri ışığında,
+    Dizimiz [2,6,16,18,22,27] olduğu için average case kapsamına girer.
